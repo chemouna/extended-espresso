@@ -65,7 +65,7 @@ public final class RecyclerviewAssertions {
                 }
                 Truth.assertThat(outviews).isEmpty();
             }
-        }
+        };
 
     }
 }
